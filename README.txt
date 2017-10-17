@@ -73,5 +73,3 @@ Validation on different fields
 Handling address with more details
 Unsupported formats responses
 
-
-Integration test can be executed as jUnit / Gradle test
